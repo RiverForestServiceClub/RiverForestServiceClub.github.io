@@ -1,0 +1,7 @@
+
+<hr>
+<table width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td><h5 class="leftfoot">&#169;2009&#160River Forest Service Club</h5></td>
+<td><h5 class="centerfoot">
+   <a href="mailto:webmaster@riverforestserviceclub.org">Contact Us</a></h5></td>

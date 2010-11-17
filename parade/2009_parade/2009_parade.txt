@@ -1,0 +1,160 @@
+<html>
+<head>
+<!-- base href="http://www.riverforestserviceclub.org/" / -->
+<title> RIVER FOREST MEMORIAL DAY PARADE </title>
+<meta name="description" 
+  content="The River Forest Service Club and The River Forest Park District
+    are proud to present the 2009 River Forest Memorial Day Parade
+    May 25, 2009" />
+<meta name="keywords" 
+  content="River Forest Service Club and The River Forest Park District
+    are proud to present the 2009 River Forest Memorial Day Parade
+    May 25, 2009, River Forest Service Club, River Forest, Service Club,
+    River Forest Park District, 2009 Memorial Day Parade, 
+    Memorial Day Parade, Memorial Day, Parade, May25, 5/25/09, 5/25/2009" />
+<meta name="author" 
+  content="Jim Graham" />
+<meta name="copyright" 
+  content="2009 River Forest Service Club" />
+<meta name="rating" 
+  content="general" />
+</head>
+
+<body bgcolor="#FBE58F">
+
+<p><h2 align="center"> 
+     The River Forest Service Club      <br />
+     and                                <br />
+     The River Forest Park District     <br />
+     are proud to present the           </h2> 
+
+<h1 align="center" > <i> 2009 River Forest Memorial Day Parade  </i> </h1>
+
+<h2 align="center" > May 25, 2009 at 11:30 am               </h2>
+</p>
+
+<hr />
+
+<p><h4 align="center" > Parade Links</h4>
+</p>
+
+<p align="center" class="links">
+
+   <b><i> 2009 PARADE</i></b>
+   <br />
+   <a href="../2009_parade/2009_parade_pics_1.html"> 2009 Parade Pictures</a> 
+        &#160&#160&#160 &#160&#160&#160
+   <a href="../2008_parade/2008_parade_pics_1.html">2008 Parade Pictures</a> 
+   <br />
+   <a href="../2009_parade/2009_sponsors.html"> 2009 Parade Sponsors</a> 
+        &#160&#160&#160 &#160&#160&#160
+   <a href="../2008_parade/2008_sponsors.html">2008 Parade Sponsors</a>    
+   <br />
+   <a href="../2009_parade/2009_honorees.html">2009 Honorees</a> 
+        &#160&#160&#160 &#160&#160&#160
+   <a href="../2009_parade/past_honorees.html">Past Honorees</a>
+        &#160&#160&#160 &#160&#160&#160
+   <a href="../2009_parade/died_in_battle.html">Died in Battle</a>
+ <!--        &#160&#160&#160
+   <a href="past_pics.html">Pictures from Previous Parades</a>     -->
+        
+</p>
+<p align="center">
+   <img src="../images/oprfhs_band.jpg" alt="Oak Park River Forest High School Band" width=400>
+<br /> <br />
+
+<b>Your sponsorship of the 2010 parade is requested. <br />
+   To learn how to become a sponsor, please <a href="mailto:webmaster@riverforestserviceclub.org">CLICK HERE</a>.  </b> <br /> <br /> 
+
+
+
+</p>
+<br />
+
+<table align="center" width=60% border=0 cellpadding=0 cellspacing=0>
+<p>
+The purpose of the River Forest Memorial Day Parade is "<b>To recognize and honor the men and women who are serving or who have served in the armed forces of the United States of America, and especially those who gave their lives in serving</b>."
+</p>
+<table align="center" width=60% border=0 cellpadding=0 cellspacing=0>
+<p>
+<br />
+The annual Memorial Day Parade is the foremost community-wide celebration in River Forest.  Each year more than one hundred businesses, community and civic groups participate in the parade, which draws thousands of viewers from River Forest and surrounding villages.  Grand Marshals in past years have included officers from Great Lakes, including admirals, a World War II ace fighter pilot, and other dignitaries.<br /> <br />
+
+For many years the parade has featured a Riderless Horse to honor our country’s fallen heroes.  There have been as many as eight musical groups in  a single parade. Past parades have included the Great Lakes Naval Center Marching Band, drum and bugle corps, calliope, and local area high school marching bands. Additional participants have included Civil War re-enactors, numerous floats, Model “A” Fords, antique military vehicles, the National Flag Truck, clowns, neighborhood groups, scout troops, politicians, local businesses, and of course, fire trucks.<br /> <br /> 
+
+The community gathering in Keystone Park following the parade begins with a special ceremony featuring comments from the Grand Marshal, and the honoring of local veterans.  Afterwards, members of the River Forest Service Club serve over 2000 free hotdogs to ceremony attendees.
+</p>
+
+
+<table align="center">
+<tr><td>
+   Post parade celebration at Keystone Park will include: 
+   </td></tr>
+<tr><td>
+&#160&#160&#160+ Ceremony honoring several armed forces veterans from River Forest
+   </td></tr>
+<tr><td>
+&#160&#160&#160+ Picnic (sponsored by CORUS Bank) 
+   </td></tr>
+</table>
+
+
+<br />
+<br />
+
+<table align="center" width=60% border=15 cellpadding=15 cellspacing=15 bgcolor="#CCFF99">
+<tr><td>
+<b>Note:</b> The Service Club is seeking information on any veteran from River Forest who deserves recognition for service to our country.  Contact a member of the Service Club in order to have a veteran honored by our community in future Memorial Day ceremonies.
+</tr></td>
+</table>
+
+<br />
+
+<hr />
+<p><h4 align="center" > Service Club Links</h4></p>
+
+<p align="center" class="links">
+
+   <a href="../index.html" rel=parent>Home</a> 
+        &#160&#160&#160
+   <a href="../officers.html">Officers</a>    
+        &#160&#160&#160
+   <a href="../meetings.html">Meetings</a>    
+        &#160&#160&#160
+   <B><i>Memorial Day Parade </i></b>    
+        &#160&#160&#160
+   <a href="../membership.html">Membership</a>
+
+</p>
+
+<hr />
+
+<table width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td><h5 class="leftfoot">&#169;2009&#160River Forest Service Club</h5></td>
+<td><h5 class="centerfoot">
+   <a href="mailto:webmaster@riverforestserviceclub.org">Contact Us</a></h5></td>
+<td><h5 class="rightfoot" align="right">Last Update: 10 JUN 2009</h1></td>
+</tr>
+</table>
+
+<!-- begin  added for GOOGLE TRACKING -->
+<!-- begin  added for GOOGLE TRACKING -->
+<!-- begin  added for GOOGLE TRACKING -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9706295-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<!-- end  added for GOOGLE TRACKING -->
+<!-- end  added for GOOGLE TRACKING -->
+<!-- end  added for GOOGLE TRACKING -->
+
+</bodyY>
+</html>

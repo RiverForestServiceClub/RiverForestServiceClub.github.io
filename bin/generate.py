@@ -20,6 +20,7 @@ class generator(object):
         last_modified = time.strftime("%d %B %Y", time.gmtime(os.path.getmtime(path)))
         t = Template(file=path)
         t.last_modified = last_modified
+        t.no_link = "{ font-weight: bold ; text-decoration: none; pointer-events: none; cursor: default;}"
         return t
 
     def generate_file(self, root, path, filename):
@@ -36,7 +37,7 @@ class generator(object):
         for root, dirs, files in os.walk(INPUT_DIR):
             path = root.split('/')
             for filename in files:
-                if filename.endswith(".tmpl"):
+                if filename.endswith(".tmpl") and '#' not in filename:
                     self.generate_file(root, path, filename)
 
 if __name__ == '__main__':

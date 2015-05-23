@@ -1,0 +1,6 @@
+.active_duty_name { font-weight: bold }
+.active_duty_name:after {
+    content: '\A';
+    white-space: pre;
+}
+.active_duty_info { white-space: normal }

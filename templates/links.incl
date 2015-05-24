@@ -6,16 +6,16 @@
    <a href="$home/index.html" class="home">Home</a>
    &#160&#160&#160
 
-   <a href="veterans.html" class="veterans">Veterans</a>
+   <a href="$home/veterans.html" class="veterans">Veterans</a>
    &#160&#160&#160
 
    <a href="https://www.facebook.com/pages/River-Forest-Service-Club/137759746274918">
      Facebook</a>
         &#160&#160&#160
-   <a href="officers.html" class="officers">Officers</a>    
+   <a href="$home/officers.html" class="officers">Officers</a>    
         &#160&#160&#160
-   <a href="meetings.html" class="meetings">Meetings</a>    
+   <a href="$home/meetings.html" class="meetings">Meetings</a>    
         &#160&#160&#160
-   <a href="membership.html" class="membership">Membership</a>
+   <a href="$home/membership.html" class="membership">Membership</a>
 
 </p>

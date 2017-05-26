@@ -4,3 +4,9 @@
     white-space: pre;
 }
 .active_duty_info { white-space: normal }
+
+#image_wrapper, img {
+    width:100%;
+    height:100%;
+}
+	      

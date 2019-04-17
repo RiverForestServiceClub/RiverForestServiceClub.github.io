@@ -1,0 +1,87 @@
+<title>RIVER FOREST MEMORIAL DAY PARADE</title>
+<link rel="stylesheet" type="text/css" href="$home/slides.css">
+<style>
+
+a.parade $no_link
+</style>
+</head>
+
+<body bgcolor="#FBE58F" class="parade">
+
+<p><h2 align="center"> 
+     The River Forest Service Club      <br />
+     and                                <br />
+     The River Forest Park District     <br />
+     are proud to present the           </h2> 
+
+<h1 align="center" > <i> 2019 River Forest Memorial Day Parade  </i> </h1>
+
+<h2 align="center" > May 27, 2019 at 9:30 am               </h2>
+</p>
+
+<hr width="50%">
+
+<p align="center" class="links"> 
+
+#include "links.incl"
+
+#include "parade/parade_links.incl"
+
+<hr width="50%">   
+
+The 2018 Grand Marshal is Richard Gadek.
+
+#*
+<ul class="slides">
+
+#set $pictures = []
+#for $i, $picture in enumerate($pictures)
+
+    <input type="radio" name="radio-btn" id="img-$i" checked />
+    <li class="slide-container">
+		<div class="slide">
+			<img src="pics/$picture" />
+        </div>
+		<div class="nav">
+#if $i > 0
+			<label for="img-$(i-1)" class="prev">&#x2039;</label>
+#end if
+#if $i < len($pictures)-1
+			<label for="img-$($i+1)" class="next">&#x203a;</label>
+#end if
+		</div>
+    </li>
+
+
+#end for
+
+    <li class="nav-dots">
+#for $i, $picture in enumerate($pictures)
+      <label for="img-$i" class="nav-dot" id="img-dot-$i"></label>
+#end for
+    </li>
+</ul>
+
+*#
+<p>
+
+
+
+    <table align="center" width=45% border=15 cellpadding=15 cellspacing=0 bgcolor="#CCFF99">
+    <tr align="center"><td>
+             <b>WANTED !! &#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160 WANTED !!</b>
+    </td></tr> 
+    <tr><td>
+             Information on any River Forest residents who:   <br />
+             &#160&#160&#160 &#149 are on active military duty for our country, or       <br /> 
+             &#160&#160&#160 &#149 are a veteran of our country&rsquo;s armed forces.          <br />
+    </td></tr> 
+    <tr><td>
+             Contact a member of the Service Club, or fill out our online <a href="../../veterans.html"> form</a> to have them honored by our community in future Memorial Day ceremonies.
+
+    </td></tr>
+    </table>
+
+<br />
+
+ 

@@ -1,0 +1,83 @@
+<title> 2018 RIVER FOREST MEMORIAL DAY PARADE SPONSORS</title>
+<style>
+a.sponsors $no_link
+</style>
+</head>
+
+
+<body bgcolor="#FBE58F">
+
+<p><h2 align="center"> 
+     The River Forest Service Club                   <br />
+     is grateful to the contributors to the          <br />
+     2018 River Forest Memorial Day Parade.                 </h2> </p>
+
+
+
+<hr width="50%">
+
+#include "links.incl"
+#include "parade/2018_parade/parade_links.incl"
+
+</p>
+
+<hr width="50%">   
+<br />
+
+
+<table width=60% align="center" border=0 cellpadding=0 cellspacing=0>
+<p class="text" align="left">
+
+<font size=5>The River Forest Service Club is particularly grateful 
+to the following people and organizations who are contributing to the 
+success of the 2018 River Forest Memorial Day Parades. </font>
+</p> <br /> <br /></table>
+
+<table align="center" width=800px border=0 cellpadding=0 cellspacing=0>
+<p>
+
+<dt><font size=5><b><u>Premium Sponsors</u></b></dt>
+
+#for $sponsor, $link in [ ("Sunstar Dental", '<a href="http://www.sunstardental.com"><img src="../logos/SunStarDentalLogo.png" width=250></a>'), ("Forest Park National Bank &amp; Trust Co", '<a href="http://www.forestparkbank.com"><img src="../logos/ForestParkNationalLogo.jpg" width=250></a>') ]
+
+<dd>
+$sponsor
+<br>
+$link
+<br>
+
+
+#end for
+
+<dt><font size=5><b><u>Sponsors</u></b></dt>
+    
+#for $sponsor in [ "MB Financial Bank", "Novick Orthodontics", "Pan American Bank &amp; Trust", "Wednesday Journal of Oak Park and River Forest" ]
+     <font size=4>
+     <dd><b>$sponsor </b></dd>
+     </font>
+     <br/>
+
+#end for
+
+<dt><font size=5><b><u>Parade Hosts</u></b></dt>
+<dd> - <a href="../../../index.html">River Forest Service Club</a>                    </dd>   
+<dd> - <a href="http://www.rfparks.com">River Forest Park District</a> </dd>   
+<dd> - <a href="http://www.rfparks.com/ab-foundation.htm">River Forest Parks Foundation</a>                </dd>  
+<dd> - <a href="https://vrf.us">Village of River Forest</a>                      </dd>   
+   <br /><br />
+
+
+<dt><b><u>Special Thanks &hellip;</u></b></dt>
+<dd> - River Forest Police Department                </dd>   
+<dd> - River Forest Fire Department                  </dd> 
+<dd> - River Forest Public Works Department          </dd> 
+<dd> - River Forest Citizen Corp. </dd>
+   <br /><br />
+
+</font>
+</d1>
+</p>
+</table>
+<br />
+
+
